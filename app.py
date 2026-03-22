@@ -10,7 +10,7 @@ st.title("🏠 House Price Prediction")
 st.image(
     "https://images.unsplash.com/photo-1568605114967-8130f3a36994",
     caption="Dream House Price Predictor 🏡",
-    use_container_width=True
+    
 )
 st.markdown("### 🔍 Predict your house price instantly using ML")
 st.subheader("Enter House Details")
